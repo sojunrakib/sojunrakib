@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Rakibul Hasan 
 
-<!--
-**sojunrakib/sojunrakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Computer Science & Engineering Student**  
+ **Full-Stack Developer | PHP & Laravel Enthusiast**  
+ Passionate about building scalable web applications  
 
-Here are some ideas to get you started:
+###  Technologies I Work With:
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP, Laravel  
+- **Database:** MySQL  
+- **Other:** Git, API Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Currently Learning:
+- Advanced Laravel Features  
+- REST API & Authentication  
+- JavaScript Frameworks  
+
+###  Connect with Me:
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/yourprofile)  
+- GitHub: [Your Username](https://github.com/your-username)  
+- Email: your-email@example.com  
+
+ **"Code, Learn, and Build Something Amazing!"**  
