@@ -17,7 +17,7 @@
 
 ###  Connect with Me:
 - LinkedIn:www.linkedin.com/in/rakibul-hasan20
-- GitHub: [Your Username](https://github.com/your-username)  
-- Email: your-email@example.com  
+- GitHub:sojunrakib
+- Email: rakibulhasansojun@gmail.com  
 
  **"Code, Learn, and Build Something Amazing!"**  
