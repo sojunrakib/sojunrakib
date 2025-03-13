@@ -16,7 +16,8 @@
 - JavaScript Frameworks  
 
 ###  Connect with Me:
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/yourprofile)  
+- LinkedIn: www.linkedin.com/in/rakibul-hasan20
+ 
 - GitHub: [Your Username](https://github.com/your-username)  
 - Email: your-email@example.com  
 
