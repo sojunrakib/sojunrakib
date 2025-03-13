@@ -16,7 +16,10 @@
 - JavaScript Frameworks  
 
 ###  Connect with Me:
-- LinkedIn: rakibul-hasan20
+- LinkedIn:www.linkedin.com/in/
+rakibul-hasan20
+Vanity URL name
+
  
 - GitHub: [Your Username](https://github.com/your-username)  
 - Email: your-email@example.com  
